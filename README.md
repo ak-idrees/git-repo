@@ -1,1 +1,1 @@
-This repo is just created for my lab where i just revise my bootcamp labs and played with git and github because theory wont give you the gurrenty that you are now a epert but you must practice and it and implement all those commands 
+This repo is just created for my lab where i just revise my bootcamp labs and played with git and github because theory wont give you the gurrenty that you are now a expert in git  but you must practice and run all those commands also fix errors i am trying to create conflicts in files see how to resolve all those issues.
