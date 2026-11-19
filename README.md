@@ -1,0 +1,1 @@
+This repo is just created for my lab where i just revise my bootcamp labs and played with git and github because theory wont give you the gurrenty that you are now a epert but you must practice and it and implement all those commands 
